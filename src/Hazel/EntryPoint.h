@@ -12,7 +12,5 @@ int main(int argc, char** argv)
 
 }   
 
-//#else 
-//    #error Hazel only support Windows!
 
 #endif
